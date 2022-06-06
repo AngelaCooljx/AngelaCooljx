@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm AngelaCool
+Just a noob here.  
+📫 How to reach me: cool@gayhub.eu.org  
+  
+[![](https://github-readme-stats.vercel.app/api?username=AngelaCooljx)](https://github.com/AngelaCooljx)
 
 <!--
 **AngelaCooljx/AngelaCooljx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
