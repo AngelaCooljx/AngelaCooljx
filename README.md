@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm AngelaCool
 Just a noob here.  
+#### 🔭 I’m currently working on
+Nothing...
 
 #### 💻 Working environment
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows11)
